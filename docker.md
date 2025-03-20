@@ -1,8 +1,6 @@
 # Containers
 
-Algemene tutorial: 
-![algemene tutorial]([architecture.png](https://learn.microsoft.com/en-us/training/modules/intro-to-containers/))
-
+[algemene tutorial]([docker.md](https://learn.microsoft.com/en-us/training/modules/intro-to-containers))
 
 # Docker Multi-Frontend Project with Traefik
 

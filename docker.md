@@ -353,9 +353,4 @@ services:
 5. Easy path-based routing
 6. Simple configuration through labels
 
-## Future Improvements
-- Add HTTPS support
-- Implement authentication
-- Add health checks
-- Configure rate limiting
-- Set up load balancing for scaling
+

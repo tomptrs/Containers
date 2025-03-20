@@ -1,6 +1,6 @@
 # Containers
 
-[docker.md](https://learn.microsoft.com/en-us/training/modules/intro-to-containers)
+[Microsoft mini cursus](https://learn.microsoft.com/en-us/training/modules/intro-to-containers)
 [linkedIn cursus](https://www.linkedin.com/learning/learning-docker-2018/why-create-containers-using-docker?u=93921834)
 
 # Docker Multi-Frontend Project with Traefik

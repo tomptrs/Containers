@@ -2,5 +2,6 @@
 
 Kiezen voor docker compose - docker swarm - kubernetes. Tutorials over de opzet
 
-[a link](docker.md)
+[docker tutorial](docker.md)
+[docker swarm tutorial](docker_swarm.md)
 

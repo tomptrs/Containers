@@ -35,7 +35,7 @@ Enhanced the setup with path-based routing using Traefik:
 
 ## Architecture
 
-![alt text](image.png)
+![alt text](architecture.png)
 
 ## Components
 

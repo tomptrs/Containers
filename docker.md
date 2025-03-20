@@ -1,5 +1,9 @@
 # Containers
 
+Algemene tutorial: 
+![algemene tutorial]([architecture.png](https://learn.microsoft.com/en-us/training/modules/intro-to-containers/))
+
+
 # Docker Multi-Frontend Project with Traefik
 
 This project demonstrates the evolution of a Docker-based web application, starting from a basic setup and progressing to a more sophisticated configuration using Traefik as a reverse proxy.

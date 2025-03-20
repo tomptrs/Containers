@@ -19,3 +19,7 @@ Docker Swarm is ingebouwd in Docker, wat betekent dat je geen extra software nod
 ## Wanneer kies je welke?
 Gebruik Docker Compose voor development en testing. Het is handig als je meerdere containers wilt beheren op je lokale machine (bijvoorbeeld een webserver + database).
 Gebruik Docker Swarm als je een productieomgeving met meerdere servers hebt en schaalbaarheid en failover nodig hebt.
+
+## architectuur
+
+2 fysieke servers, georkesteerd door docker swarm.

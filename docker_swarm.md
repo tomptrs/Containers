@@ -23,5 +23,7 @@ Gebruik Docker Swarm als je een productieomgeving met meerdere servers hebt en s
 ## architectuur
 
 2 fysieke servers, georkesteerd door docker swarm.
+
+## setup docker swarm
 https://www.linuxlearninghub.com/docker-swarm-made-easy-a-step-by-step-tutorial-series/
 

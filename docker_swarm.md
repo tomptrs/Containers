@@ -1,13 +1,11 @@
 # tutorial docker swarm
 
 Docker Swarm is een native clustering en orkestratie-oplossing voor Docker-containers. Het stelt je in staat om een cluster van Docker-hosts te beheren als één enkele virtuele machine. Swarm regelt schaalbaarheid, load balancing en failover, zodat je applicaties robuuster en beter beheersbaar worden.
-Doel	Orkestratie van containers over meerdere nodes (distributie en schaalbaarheid)	
-Definiëren en beheren van multi-container applicaties op een enkele machine
 
-Met Docker Swarm kun je:
+Met Docker Swarm kan je:
 
 - Containers schalen over meerdere nodes.
-- Automatisch falende containers of nodes vervangen.
+- Automatisch falende containers vervangen.
 - Load balancing toepassen via ingebouwde DNS-based service discovery.
 
 Docker Swarm is ingebouwd in Docker, wat betekent dat je geen extra software nodig hebt om het te gebruiken.

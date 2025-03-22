@@ -25,3 +25,6 @@ Gebruik Docker Swarm als je een productieomgeving met meerdere servers hebt en s
 ## setup docker swarm
 https://www.linuxlearninghub.com/docker-swarm-made-easy-a-step-by-step-tutorial-series/
 
+## Pluralsight
+https://app.pluralsight.com/library/courses/microservices-with-docker/
+
